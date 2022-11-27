@@ -1,3 +1,5 @@
+<p align='center'><a href="#"><img height=auto width=auto src="https://discord.c99.nl/widget/theme-1/798996902128386148.png" height="1000px"/></a></p>
+
 <h1 align="center">Hi 👋, I'm Verxy</h1>
 <h3 align="center">Discord Nerd, Developer</h3>
 
