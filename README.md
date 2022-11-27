@@ -1,26 +1,18 @@
-</details>
-<p align='center'><a href="#"><img height=auto width=auto src="https://discord.c99.nl/widget/theme-1/798996902128386148.png" height="1000px"/></a></p>
+<h1 align="center">Hi 👋, I'm Verxy</h1>
+<h3 align="center">Discord Nerd, Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=verxyman&label=Profile%20views&color=0e75b6&style=flat" alt="verxyman" /> </p>
 
-
-- 👋 Hi, I’m @Verxy
-- 👀 I’m interested in Discord tools/html code
-- 🌱 I’m currently learning ... C#
-- 💞️ I’m looking to collaborate on ... Discord Projects
-- 📫 How to reach me ... Discord 
-
-
-<a href = "https://www.youtube.com/@verxxy"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/verxyman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="verxyman" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@verxxy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@verxxy" height="30" width="40" /></a>
+<a href="https://discord.gg/U8uv5438R7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="U8uv5438R7" height="30" width="40" /></a>
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Verxyman">
-</a>
-<a href="https://github.com/Verxyman?tab=followers"><img src="https://img.shields.io/github/followers/Verxyman?label=Followers&style=social" alt="GitHub Badge"></a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<!---
-3XPORT/3XPORT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=verxyman&show_icons=true&locale=en" alt="verxyman" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=verxyman&" alt="verxyman" /></p>
